@@ -1,0 +1,13 @@
+{
+  "name": "glisy",
+  "version": "0.0.1",
+  "repo": "glisy/buffer",
+  "description": "GlisyBuffer module",
+  "keywords": [
+    "glisy",
+    "buffer"
+  ],
+  "dependencies": {
+    "glisy/gl": "0.0.1"
+  }
+}
