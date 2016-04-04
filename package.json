@@ -1,6 +1,6 @@
 {
   "name": "glisy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repo": "glisy/buffer",
   "description": "GlisyBuffer module",
   "keywords": [
@@ -10,7 +10,7 @@
   "src": [
     "include/glisy/buffer.h",
     "src/buffer.c"
-  ]
+  ],
   "dependencies": {
     "glisy/gl": "0.0.1"
   }
