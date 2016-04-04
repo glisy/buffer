@@ -7,6 +7,10 @@
     "glisy",
     "buffer"
   ],
+  "src": [
+    "include/glisy/buffer.h",
+    "src/buffer.c"
+  ]
   "dependencies": {
     "glisy/gl": "0.0.1"
   }
